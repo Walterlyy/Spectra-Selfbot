@@ -2,7 +2,7 @@
 
 ## 📹 Preview
 
-![Screenshot](s1.png)
+![Screenshot](Screenshot/s1.png)
 
 ## 🔥 Features
 - Help
